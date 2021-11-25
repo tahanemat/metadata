@@ -33,3 +33,5 @@
 
 #directories
 build/
+Debug/
+Release/
